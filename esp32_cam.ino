@@ -214,10 +214,6 @@ void setup() {
   // เริ่ม server
   startCameraServer();
 }
-
-// ============================
-// Loop
-// ============================
 void loop() {
   delay(1);
 }
