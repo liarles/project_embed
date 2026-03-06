@@ -95,4 +95,5 @@ np.save(SIGNATURE_FILE, signature)
 
 print(f"\n💾 บันทึก signature สำเร็จ → '{SIGNATURE_FILE}'")
 print("\n✅ เทรนเสร็จแล้ว! รัน detect_cat.py เพื่อเริ่มตรวจจับได้เลย")
+
 print("=" * 40)
